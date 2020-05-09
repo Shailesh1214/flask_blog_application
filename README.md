@@ -1,4 +1,4 @@
-## Flask Blog App
+## Blog Application
 A simple flask App
 
 ## How to clone
