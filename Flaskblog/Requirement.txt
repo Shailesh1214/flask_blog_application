@@ -15,5 +15,5 @@ imagesize                          1.1.0
 Jinja2                             2.10.3
 Pillow                             6.2.0
 template                           0.5.1
-unicodecsv                         0.14.1
 WTForms                            2.3.1
+Flask-Mail                         0.9.1
